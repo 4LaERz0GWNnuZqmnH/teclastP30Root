@@ -1,6 +1,6 @@
 # Warning
 
-As always, no warranty / responsibility. If this bricks your tablet, you're on your own. I had Claude do this entire setup from start to finish and then write this README and script. Humans make mistakes. AI make mistakes. Verify before you start.
+As always, no warranty / responsibility. If this bricks your tablet, you're on your own. I had Claude do this entire setup from start to finish and then write this README and script. Humans make mistakes. AI make mistakes. Verify before you start. **END OF HUMAN EDITS**
 
 ---
 
