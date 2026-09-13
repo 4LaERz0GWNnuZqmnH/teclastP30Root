@@ -1,6 +1,6 @@
 SESSION HANDOFF. dir=repo root (wherever this file lives; cd there, never assume a fixed absolute path - portable across machines/users). if repo root sits inside a larger workspace, ignore unrelated sibling projs/dirs. Read this fully before acting; do not re-derive via trial/error what's stated here as verified.
 
-DEVICE: Teclast P30 (P30_ROW) serial 8622SFCEEB00004649. Android14 UP1A.231105.001.A1. SoC Allwinner A523/T527=sun55iw3p1 board=saturn arm64-v8a. eMMC 58GB A/B slots+separate init_boot(GKI,treble=true). connects via adb+usb, no wifi issue now (fixed, see NETFIX).
+DEVICE: Teclast P30 (P30_ROW). Android14 UP1A.231105.001.A1. SoC Allwinner A523/T527=sun55iw3p1 board=saturn arm64-v8a. eMMC 58GB A/B slots+separate init_boot(GKI,treble=true). connects via adb+usb, no wifi issue now (fixed, see NETFIX).
 
 STATE=DONE,VERIFIED(live-checked before writing this file):
 - bootloader unlocked: ro.boot.flash.locked=0 verifiedbootstate=orange. Secure Storage confirmed genuinely unlocked (fastboot_status_flag="unlocked") - NOT a no-op on this unit.
